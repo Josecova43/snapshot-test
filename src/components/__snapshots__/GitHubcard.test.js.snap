@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test GitHUbCard for features when it renders a snapshot 1`] = `
+<div>
+  <div
+    className="card"
+  >
+    <div
+      className="card-body"
+    >
+      <img
+        alt="Github avatar"
+        className="card-img-top"
+        src=""
+      />
+      <div
+        className="card-title h5"
+      >
+        <h2>
+                 
+        </h2>
+      </div>
+      <p
+        className="card-text"
+      />
+    </div>
+  </div>
+</div>
+`;
